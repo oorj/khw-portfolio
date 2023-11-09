@@ -153,8 +153,9 @@ input::placeholder {color:#111;}
   right: 8%;
   top: 35%;
   height: 55%;
-  width: 25%;
+  width: 20%;
 }
+.contents-wrap .contents:nth-child(2) .bg img:nth-child(2){width: 25%;}
 .contents-wrap .contents:nth-child(4) .bg img:nth-child(2){
   width: 35%;
   right: 5%;
